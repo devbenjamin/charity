@@ -177,6 +177,10 @@ button:hover{
 #footer li a{
     color: #111;
 }
-
-
+#menu-footer li {
+  color: #dedede !important;
+}
+#menu-footer li a {
+  color: #bbb;
+}
 
