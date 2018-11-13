@@ -38,7 +38,7 @@ a {
 #mainTitle{
     width: 50%;
     float: left;
-    background: #fff;
+    background: #eee;
     padding: 0;
 }
 #theCharities {
@@ -53,7 +53,7 @@ a {
 }
 .navItem {
     margin: 0.2em 0.4em;
-    color: #fff;
+    color: #ddd;
     height: 1em !important;
 }
 #sidebar {
@@ -84,7 +84,7 @@ a {
     position: relative;
 }
 #otherCharityList a {
-    color: blue;
+    color: 000075;
     height: 1.1em;
     margin: 0;
     
@@ -115,7 +115,7 @@ a {
 #featuredMainTitle {
     margin-top: 1em;    
     padding: 0;
-    background: BLUE;
+    background: #000075;
     opacity: 0.7;
     width: 100%;
     color: white;
@@ -158,12 +158,12 @@ a {
     font-size: 1em; 
 }
 button:hover{
-    background: blue;
+    background: 000075;
 }
 #footer {
     width: 100%;
     height: 3em;
-    background: blue;
+    background: #000075;
     position: absolute;
     bottom: 0;
     left: 0;
